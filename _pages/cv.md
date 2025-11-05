@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Paige Cobrin - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,30 +8,30 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [pac252@cornell.edu](mailto:pac252D@cornell.edu) | | | **Phone:** +347 326 4679
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in business and medical devices. Passionate about venture capital and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Science in Mechanical Engineering*  
+  GPA: 4.0/4.0 | Graduation: May, 2027
 
-- **[High School Name]**  
+- **Weston High School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [June, 2023]
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
+- **Software:** Autodesk Fusion 360, SolidWorks  
 - **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Tools:** 3D Printing  
 
 ---
 
@@ -63,8 +63,9 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Hardware Subteam Lead of DEBUT Cornell
+- Alumni Relations Coordinator of Hearsay A Capella
+- Director of Recruitment of PDOW 
 
 ---
 
